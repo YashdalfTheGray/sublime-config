@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/Glacier-Modified.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Markdown",
+		"SublimeLinter",
+		"Vintage"
+	],
+	"piatto_folder_icons": true,
+	"theme": "Glacier.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"typescript_plugin_tsc_version": "1.6.2",
+	"use_tab_stops": true
+}
