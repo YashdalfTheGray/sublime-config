@@ -1,20 +1,22 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+	"theme": "Material-Theme.sublime-theme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"JS Snippets",
 		"Markdown",
 		"SublimeLinter",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
+    "line_padding_top": 3,
+    "line_padding_bottom": 3,
 	"piatto_folder_icons": true,
-	"theme": "Material Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"typescript_plugin_tsc_version": "1.7.2",
-	"use_tab_stops": true
+	"typescript_plugin_tsc_version": "1.7.3",
+	"use_tab_stops": true,
+	"indent_guide_options": [ "draw_normal", "draw_active" ]
 }
